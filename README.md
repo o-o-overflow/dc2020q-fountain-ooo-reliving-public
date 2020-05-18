@@ -12,7 +12,3 @@ The supplied file, can be loaded and run in Golly, a game of life simulator http
 So the simple computer that runs 60ish assembly commands, is comprised of nearly 20 billion individual cells.  However, using the abstracted VarLife rules from the Quest for Tetris developers the same computer is reduced to 800k cells.
 
 ![Fountain Zoom Varlife](https://github.com/o-o-overflow/dc2020q-fountain-ooo-reliving-public/raw/master/fountain-varlife-zoom.png)
-
-
-
-
